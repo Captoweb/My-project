@@ -8,7 +8,7 @@ I let's create something
  </head>
  <body>
    <h1>Headline</h1>
-   <p> </p>
+   <p>Hello, GitHub!</p>
  
  </body>
 
