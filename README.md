@@ -3,9 +3,7 @@ I let's create something
 <!DOCTYPE>
 <html>
  <head>
- <meta charset="utf-8">
- <title>example</title>
- 
+ <meta charset="utf-8"> 
  </head>
  <body>
    <h2>Headline</h2>
