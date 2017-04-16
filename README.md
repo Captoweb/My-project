@@ -8,8 +8,7 @@ I let's create something
  <body>
    <h2>Headline</h2>
    <p>Hello, GitHub!</p> 
-   
-  че то не поддерживает CSS
+ а вобще прикольная штука  
  
  </body>
 
