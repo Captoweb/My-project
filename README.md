@@ -4,11 +4,21 @@ I let's create something
 <html>
  <head>
  <meta charset="utf-8">
-  <title> example </title>
+ <title>example</title>
+   <style type="text/css"> 
+   body {
+   font-family: arial;
+   background-color: rgb(185,179,175);}
+   h1 {
+   color: rgb(255,255,255);}
+    </style>
+ 
  </head>
  <body>
-   <h1>Headline</h1>
-   <p>Hello, GitHub!</p>
+   <h2>Headline</h2>
+   <p>Hello, GitHub!</p> 
+   
+  че то не поддерживает CSS
  
  </body>
 
